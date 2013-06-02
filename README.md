@@ -1,4 +1,5 @@
 testng-maven-plugin
 ===================
 
-TestNG Maven plug-on
+TestNG Maven plug-in.
+
